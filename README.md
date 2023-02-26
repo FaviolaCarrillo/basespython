@@ -1,2 +1,2 @@
-# basespython
+# BasesPython
 Ejercicios basicos
